@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-def bonus(hash1, hash2, hash3)
+def bonus(hash1, hash2)
   
 end 
   
